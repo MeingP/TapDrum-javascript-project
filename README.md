@@ -1,2 +1,2 @@
 # TapDrum-javascript-project
-A fun and interactive drum kit made using JavaScript utilizing the keyboard to play the sounds.
+A fun and interactive drum kit project part of the Udemy Web Development Course made using JavaScript utilizing the keyboard to play the sounds.
